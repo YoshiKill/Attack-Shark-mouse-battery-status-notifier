@@ -1,6 +1,7 @@
 # 🦈 Attack Shark Mouse Battery Notifier (RU)
 
 **Небольшая утилита**, которая спасает от самого раздражающего момента — когда мышь внезапно разряжается в разгар работы или игры.
+<img width="1280" height="960" alt="Mouse Notifier" src="https://github.com/user-attachments/assets/9951f5b4-7913-4b44-9868-bc7788423a97" />
 
 ---
 
