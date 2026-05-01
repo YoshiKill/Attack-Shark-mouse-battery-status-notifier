@@ -62,8 +62,5 @@ Low battery notification for your mouse with additional statistics
 
 ---
 
-Если хочешь, могу дальше докрутить:
 
-* версию на чистом английском (для GitHub прям идеально)
-* или добавить блоки типа **Installation / Usage / Screenshots** чтобы выглядело как у «взрослых» проектов 👍
 
