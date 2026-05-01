@@ -1,6 +1,3 @@
-# Attack-Shark-mouse-battery-status-notifier
-Low battery notification for your mouse with additional statistics
-
 # 🦈 Attack Shark Mouse Battery Notifier
 
 **Небольшая утилита**, которая спасает от самого раздражающего момента — когда мышь внезапно умирает в разгар работы или игры.
